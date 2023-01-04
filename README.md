@@ -18,6 +18,33 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AsifAhmedSahil?tab=repositories)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 My Github Stats
+
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                 <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifAhmedSahil&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
+
+<br/>
+<br/>
+
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+    </tr>
+</table>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AsifAhmedSahil?tab=repositories&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/AsifAhmedSahil?tab=repositories)  
