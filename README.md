@@ -37,10 +37,10 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsifAhmedSahil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAhmedSahil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
         </td>
     </tr>
 </table>
