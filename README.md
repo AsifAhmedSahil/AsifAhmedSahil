@@ -18,6 +18,26 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AsifAhmedSahil?tab=repositories)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🌐 Connect with me: 
+
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+
+    <td>
+     <a href="https://linkedin.com/in/asif-ahmed-sahil-8365861a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hamid-hosen-699a10196" height="30" width="40" /></a>
+    </td>
+    <td>
+     <a href="https://www.kaggle.com/sahilsanji007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hosen42" height="30" width="40" /></a>
+    </td>
+      <td>
+     <a href="https://www.facebook.com/sksahil.asif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdhamidhosen42" height="30" width="40" /></a>
+    </td>
+      <td>
+<a href="https://leetcode.com/asif_ahmed007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamid42" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
+
 ## 📊 My Github Stats
 
 <p align="center">
