@@ -17,10 +17,8 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-
-  
       <td>
-<a href="https://leetcode.com/asif_ahmed007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamid42" height="30" width="40" /></a>
+          <a href="https://leetcode.com/asif_ahmed007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-             generator/master/src/images/icons/Social/leet-code.svg" alt="hamid42" height="30" width="40" /></a>
     </td>
   </tr>
 </table>
