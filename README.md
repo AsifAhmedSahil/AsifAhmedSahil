@@ -62,4 +62,4 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/AsifAhmedSahil?tab=repositories)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/AsifAhmedSahil?tab=repositories)  
+
