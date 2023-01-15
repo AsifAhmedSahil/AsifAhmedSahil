@@ -60,6 +60,6 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/AsifAhmedSahil?tab=repositories)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/AsifAhmedSahil?tab=repositories)  
+ 
 
 
