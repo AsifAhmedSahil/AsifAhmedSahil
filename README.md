@@ -2,7 +2,6 @@
 ## I am a Front-End Developer
 I’m a Front-End Web developer who is passionate about making error-free websites with 100% client satisfaction. 
 
---> 
 
 Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
