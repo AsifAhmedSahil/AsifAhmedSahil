@@ -5,7 +5,7 @@ I’m a Front-End Web developer who is passionate about making error-free websit
 
 Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
 
-- 🔭 I’m currently working on REACT Functional Website 
+- 🔭 I’m currently working on REACT & Next Js Functional Website 
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on JavaScript 
 - 🤔 I’m looking for help with REACT 
