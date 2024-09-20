@@ -1,19 +1,19 @@
 # Hi there 👋, my name is Asif Ahmed Sahil
-## I am a Front-End Developer
-I’m a Front-End Web developer who is passionate about making error-free websites with 100% client satisfaction...
+## I am a MERN-Stack Developer
+I’m a MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction...
 
 
 
 
-Skills:  REACT /NEXT/ JS / HTML / CSS/ PYTHON / ML
+Skills:  REACT /NEXT/ JavaScript / Typescript/ HTML / CSS/ PYTHON / ML / MongoDB/ Express
 
 - 🔭 I’m currently working on REACT & Next Js Functional Website 
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on JavaScript 
 - 🤔 I’m looking for help with REACT 
 - 💬 Ask me about REACT & JavaScript \
-- 💼 https://sahil-portfolio-nextjs.vercel.app/
-- 📫 How to reach me: https://www.facebook.com/sksahil.asif 
+- 💼 https://asif-ahmed-sahil-portfolio.vercel.app
+- 📫 How to reach me: https://www.linkedin.com/in/asif-ahmed-sahil-8365861a0
 
 
 
