@@ -93,16 +93,11 @@ Skills:  REACT /NEXT/ JavaScript / Typescript/ HTML / CSS/ PYTHON / ML / MongoDB
 
 
 
-
-
-
 ## 🌐 Connect with me: 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pr1sahil) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sksahil.asif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil.me_1020) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-ahmed-sahil-8365861a0)
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/AsifAhmedSahil?tab=repositories)  
 
  
 
