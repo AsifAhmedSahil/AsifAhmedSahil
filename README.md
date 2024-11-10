@@ -16,7 +16,7 @@ Skills:  REACT /NEXT/ JavaScript / Typescript/ HTML / CSS/ PYTHON / ML / MongoDB
 
 ## 📊 My Github Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsifAhmedSahil&theme=dark&hide_border=false)<br/>
+
 
 <p align="center">
     <table align="center">
