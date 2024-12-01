@@ -11,7 +11,7 @@ Skills:  REACT /NEXT/ JavaScript / Typescript/ HTML / CSS/ PYTHON / ML / MongoDB
 - 👯 I’m looking to collaborate on JavaScript 
 - 🤔 I’m looking for help with REACT 
 - 💬 Ask me about REACT & JavaScript 
-- 💼 https://asif-ahmed-sahil-portfolio.vercel.app
+- 💼 https://asif-ahmed-sahil.vercel.app
 - 📫 How to reach me: asifahmedsahil.007@gmail.com
 
 ## 📊 My Github Stats
