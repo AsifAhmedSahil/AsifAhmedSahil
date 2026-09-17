@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=AsifAhmedSahil&icon=0&color=0)](https://visitcount.itsvg.in)
 # Hi there 👋, I'm Asif Ahmed Sahil
 ![alt text](https://i.ibb.co.com/RGFP5ZW/banner.jpg)
-## I am a MERN-Stack Developer
-MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction...
+## Software Engineer
+Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction...
 
 Skills:  REACT /NEXT/ JavaScript / Typescript/ HTML / CSS/ PYTHON / ML / MongoDB/ Express
 
